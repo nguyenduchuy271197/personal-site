@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #B97A95;
+    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Satisfy', cursive; */
+    line-height: 1.5;
+    font-size: 9rem;
+}
+
+h2, h3{
+    font-size: 1.5rem;
+    line-height: 4;
+    color: #B97A95;
+}
+
+
+p{
+    line-height: 2;
+}
+
+.job {
+    line-height: 1.5;
+}
+
+.top-container {
+    /* padding-top: 5%; */
+    background-color: #FDD2BF;
+    height: 100%;
+}
+
+.title-text {
+    padding-top: 8%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 20%;
+    top: 5%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 20%;
+}
+
+
+.greeting-container {
+    width: 25%;
+    margin: auto;
+    padding: 10%;
+}
+
+.avatar {
+    width: 200px;
+}
+
+.skill-container {
+    padding: 50px 0px;
+}
+
+.skill-row {
+    width: 50%;
+    /* margin: 30px auto 100px auto; */
+    margin: auto;
+    padding: 30px 0px 50px;
+    text-align: left;
+}
+
+
+.first-skill-img {
+    width: 180px;
+    float: left;
+    padding: 2%;
+}
+
+.second-skill-img {
+    width: 180px;
+    float: right;
+    padding: 2%;
+}
+
+
+.contact-container {
+    width: 40%;
+    margin: auto;
+    padding: 8%;
+}
+
+.bottom-container {
+    background-color: blue;
+    padding: 2% 0 0.5%;
+}
+
+.media-contact {
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    line-height: 4;
+}
+
+.copyright {
+    font-size: 0.8rem;
+}
+
+hr {
+    
+}
